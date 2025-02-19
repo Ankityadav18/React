@@ -1,0 +1,31 @@
+
+//!JSX -HTML -like or XML -like syntax
+// const jsx=<h1>This is react🎯 </h1>  
+
+
+//!This is react element
+// const heading=(
+//     <h1>Hello React element</h1>
+// )
+
+
+
+// const Title=()=>(
+//     <h1>Title is here</h1>
+// )
+
+
+
+// const number=1999
+
+
+// const heading=(
+//     <div className="title">
+//         <h1>react🎯</h1>
+//         <h2>HELLO</h2>
+//         <h3>Hello2</h3>
+//     </div>
+
+// )
+//!This is react functional component.
+
